@@ -9,8 +9,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
 # Module 1: Cloud Concepts  Walkthroughs
 After completing this module, students will be able to: • Describe and understand cloud services and their benefits. • Understand key terms they will encounter when working with cloud services. • Understand public, private, and hybrid cloud models. • Understand infrastructure as a service (IaaS). • Understand platform as a service (PaaS). • Understand software as a service (SaaS). 
